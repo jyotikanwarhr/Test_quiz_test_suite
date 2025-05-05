@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What does the range function do?",
+        "answers": [
+          { "text": "Generates a list of numbers", "isCorrect": true },
+          { "text": "Creates an iterator that generates a sequence of numbers", "isCorrect": true },
+          { "text": "Creates a list of tuples", "isCorrect": false },
+          { "text": "Generates random numbers", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is the correct syntax to create a dictionary in Python?",
+        "answers": [
+          { "text": "{'name': 'John', 'age': 30}", "isCorrect": true },
+          { "text": "<'name': 'John', 'age': 30>", "isCorrect": false },
+          { "text": "['name': 'John', 'age': 30]", "isCorrect": false },
+          { "text": "('name': 'John', 'age': 30)", "isCorrect": false }
+        ]
+      }
+]
